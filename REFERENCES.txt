@@ -1,1 +1,55 @@
-Kruskal (1960); Gentzen (1936); Chaitin (1974); NIST AI RMF (2023); MITRE ATLAS.
+Mathematics / Logic (TREE(3), Ordinals, Proof Theory)
+1) Kruskal, J. B. (1960). Well-quasi-ordering, the tree theorem, and Vazsonyi’s conjecture. Transactions of the American Mathematical Society, 95(2), 210–225.
+2) Friedman, H. (1995–2000). Foundational studies connecting finite combinatorics and large countable ordinals. OSU preprints/notes.
+3) Harvey Friedman’s Boolean Relation Theory & finite independence results (overview). OSU/MathArchive.
+4) Rathjen, M. (2006). Proof theory of reflection. In Handbook of Proof Theory. Elsevier.
+5) Schütte, K. (1977). Proof Theory. Springer.
+6) Gentzen, G. (1936/1969). Investigations into mathematical logic (Consistency of Arithmetic). In The Collected Papers of Gerhard Gentzen. North-Holland.
+
+Computational Limits / Complexity / Incompleteness
+7) Chaitin, G. J. (1974). Information-theoretic limitations of formal systems. Journal of the ACM, 21(3), 403–424.
+8) Rado, T. (1962). On non-computable functions (Busy Beaver). Bell System Technical Journal, 41, 877–884.
+9) Arora, S., & Barak, D. (2009). Computational Complexity: A Modern Approach. Cambridge University Press.
+10) Soare, R. I. (1999). Recursively Enumerable Sets and Degrees. Springer.
+
+Quantum Computation / Boundaries
+11) Nielsen, M. A., & Chuang, I. (2010). Quantum Computation and Quantum Information (10th ann. ed.). Cambridge University Press.
+12) Preskill, J. (2018). Quantum computing in the NISQ era and beyond. Quantum, 2, 79.
+13) Gottesman, D. (1997). Stabilizer codes and quantum error correction (PhD thesis). Caltech.
+14) Aaronson, S. (2013). Quantum Computing Since Democritus. Cambridge University Press.
+15) Arute, F., et al. (2019). Quantum supremacy using a programmable superconducting processor. Nature, 574, 505–510.
+
+Standards / Security / Cryptography (Quantum-Safe)
+16) NIST (2023–2024). Post-Quantum Cryptography Standardization (CRYSTALS-Kyber, Dilithium). NIST.gov.
+17) ETSI (2020). Quantum-Safe Cryptography technical reports. ETSI.org.
+18) ENISA (2022–2024). Post-Quantum Cryptography: Current state and quantum threat landscape. ENISA.europa.eu.
+19) NSA/CNSA 2.0 (2022). Commercial National Security Algorithm Suite 2.0. NSA.gov.
+20) ISO/IEC 23837 (2023). Security requirements for quantum-safe cryptography. ISO.org.
+
+AI / Systemic Governance / Risk
+21) NIST (2023). AI Risk Management Framework (AI RMF 1.0). NIST.gov.
+22) MITRE (2024). SAFE-AI / ATLAS. MITRE.org.
+23) EU AI Act (2024). Harmonised rules on Artificial Intelligence. eur-lex.europa.eu.
+24) IEEE (2020). Ethically Aligned Design. standards.ieee.org.
+
+Systems / Signal / Entanglement Analogies
+25) Oppenheim, A. V., & Schafer, R. (2009). Discrete-Time Signal Processing (3rd ed.). Pearson.
+26) Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+Blockchain / DLT (auditability)
+27) Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. bitcoin.org.
+28) Buterin, V. (2013). Ethereum: A Next-Generation Smart Contract & DApp Platform.
+29) Wüst, K., & Gervais, A. (2018). Do you need a blockchain? 2018 Crypto Valley Conf. IEEE.
+30) Hyperledger Foundation (2022). Hyperledger Fabric docs. hyperledger.org.
+31) ISO/TC 307 (2020–2023). Blockchain and DLT — standards series. ISO.org.
+
+Resonance / Systems Foundations
+32) Bohm, D. (1980). Wholeness and the Implicate Order. Routledge.
+33) Prigogine, I. (1997). The End of Certainty. Free Press.
+34) Penrose, R. (2004). The Road to Reality. Jonathan Cape.
+35) Tressoldi, P. E., et al. (2015). Resonance theories of brain and consciousness. Neuroscience & Biobehavioral Reviews, 55, 1–14.
+36) Havelock, D., Kuwano, S., & Vorländer, M. (2008). Handbook of Signal Processing in Acoustics. Springer.
+
+Codex / Harmonic Intelligence (Author’s Works)
+37) Varughese, P. C. (2025). Codex Mathematical Framework: Ω+1 ↑ TREE(3). Public GitHub Pages PDF.
+38) Varughese, P. C. (2025). Codex Execution Scroll & Comparator. Public GitHub Pages PDFs.
