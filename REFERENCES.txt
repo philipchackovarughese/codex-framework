@@ -1,0 +1,1 @@
+Kruskal (1960); Gentzen (1936); Chaitin (1974); NIST AI RMF (2023); MITRE ATLAS.
