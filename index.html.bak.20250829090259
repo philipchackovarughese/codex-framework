@@ -50,8 +50,8 @@
     <div class="card">
       <h2>License &amp; Terms</h2>
       <ul>
-        <li><a href="docs/LICENSE.pdf">LICENSE (All Rights Reserved)</a></li>
-        <li><a href="docs/NOTICE.pdf">NOTICE (Attribution &amp; usage)</a></li>
+        <li><a href="LICENSE">LICENSE (All Rights Reserved)</a></li>
+        <li><a href="NOTICE">NOTICE (Attribution &amp; usage)</a></li>
         <li><a href="docs/Codex_Terms.pdf">Codex Terms (EULA)</a></li>
       </ul>
     </div>
