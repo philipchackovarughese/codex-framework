@@ -1,0 +1,10 @@
+Codex Sovereign Manifest
+UTC Timestamp: 2025-09-22T02:40:11.268958Z
+Artifact: ZeroPointBridge_LevelsAndForms.pdf
+SHA3-512: 40741d47f99155299479469338bbcf98b9cb90bf88afbbacb2831ed6b02e5f6956724faae918b8a5875faa0ab52001e41d08400347e974bfc1f46b6b0b67fbad
+Included Files:
+ - ZeroPointBridge_LevelsAndForms.pdf
+ - ZeroPointBridge_ReleaseNotes.pdf
+ - README.md
+Tags: codex, zero-point, harmonic-intelligence, entropy, information
+Permissions: Public View / Immutable
