@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./style.css">
 # Codex Public Archive
 
 Welcome to the Codex Framework public archive.  
