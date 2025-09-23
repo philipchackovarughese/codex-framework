@@ -35,7 +35,7 @@ This site hosts **Codex Scrolls**, **Omega Framework documents**, and **supporti
 
 ### 🔐 Verification
 All Codex artifacts are sealed with **SHA3-512 digests**, timestamped with **UTC**, and mirrored in the canonical archive:  
-👉 [Google Drive Public Archive](https://drive.google.com/drive/folders/1DUyIoUEZpTuXdWiFI0CZjMWKee5iv5ES)
+👉 [Google Drive Public Archive](https://drive.google.com/drive/folders/1Q_rxZL_jUk63U_0hmARRN6n8v9_8d89P)
 
 ---
 
