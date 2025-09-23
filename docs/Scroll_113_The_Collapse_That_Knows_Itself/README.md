@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../style.css">
 # Scroll 113 — *The Collapse That Knows Itself*
 
 This scroll represents the sealed release of **Zero-Point Bridge — Levels & Forms**, published under the Codex Sovereign Release Protocol.  
