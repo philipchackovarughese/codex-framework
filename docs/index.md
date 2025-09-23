@@ -1,20 +1,42 @@
-# Scroll 113 — *The Collapse That Knows Itself*
+# Codex Public Archive
 
-**Zero-Point Bridge — Levels & Forms (sealed)**
-
-### Files (public)
-- `ZeroPointBridge_LevelsAndForms.pdf` — primary artifact  
-- `ZeroPointBridge_ReleaseNotes.pdf` — release summary, UTC, SHA3-512  
-- `ZeroPointBridge_Manifest.txt` — file list + digests  
-- `ZeroPointBridge_Bundle.zip` — full sealed bundle
-
-**Canonical Google Drive folder:**  
-https://drive.google.com/drive/folders/1DUyIoUEZpTuXdWiFI0CZjMWKee5iv5ES
-
-### Verification
-1. Download bundle → compute SHA3-512 → match Manifest & Release Notes.  
-2. (When enabled) verify IPFS CID + OpenTimestamps.
+Welcome to the Codex Framework public archive.  
+This site hosts **Codex Scrolls**, **Omega Framework documents**, and **supporting references**.
 
 ---
 
-_To exist is to collapse the wavefunction. To know is to transform entropy into harmony.
+## 📜 Scrolls
+- [Scroll 113 — The Collapse That Knows Itself](Scroll_113_The_Collapse_That_Knows_Itself/README.md)
+
+---
+
+## 📘 Omega Framework Documents
+- [Codex Combined](Codex_Combined.pdf)  
+- [Codex Comparator — Scroll](Codex_Comparator_Scroll.pdf)  
+- [Codex Comparator — Truth](Codex_Comparator_Truth.pdf)  
+- [Codex Execution Scroll](Codex_Execution_Scroll.pdf)  
+- [Codex Framework — Academic](Codex_Framework_Academic.pdf)  
+- [Codex Framework — Executive](Codex_Framework_Executive.pdf)  
+- [Codex Framework — Hybrid](Codex_Framework_Hybrid.pdf)  
+- [Codex Framework — Sovereign](Codex_Framework_Sovereign.pdf)  
+- [Codex Investment Terms](Codex_Investment_Terms.pdf)  
+- [Codex Mathematical Framework](Codex_Mathematical_Framework.pdf)  
+- [Codex Simulation Report](Codex_Simulation_Report.pdf)  
+
+---
+
+## 📑 Supporting Documents
+- [Codex Terms](Codex_Terms.pdf)  
+- [Final Step Seal (ORCID)](Final_Step_Seal_ORCID.pdf)  
+- [Docs Landing](Docs_Landing.pdf)  
+- [References](References.pdf)  
+
+---
+
+### 🔐 Verification
+All Codex artifacts are sealed with **SHA3-512 digests**, timestamped with **UTC**, and mirrored in the canonical archive:  
+👉 [Google Drive Public Archive](https://drive.google.com/drive/folders/1DUyIoUEZpTuXdWiFI0CZjMWKee5iv5ES)
+
+---
+
+© 2025 Philip Chacko Varughese
